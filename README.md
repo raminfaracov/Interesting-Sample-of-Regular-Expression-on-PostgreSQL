@@ -48,5 +48,7 @@ Our result data will be in this format:
 | test2121AgainOn4/28    | testAgainOn  | 2121428      |
 
 
+# Multi-character difficult logic replacing using PostgreSQL `regexp_replace` function
+Sample Query
 
 
