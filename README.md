@@ -50,5 +50,5 @@ Our result data will be in this format:
 
 # Multi-character difficult logic replacing using PostgreSQL `regexp_replace` function
 Sample Query
-
+https://github.com/raminfaracov/Interesting-Sample-of-Regular-Expression-on-PostgreSQL/blob/main/RegularExpression_MultiReplaceSample.sql  
 
